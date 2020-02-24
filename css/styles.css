@@ -26,3 +26,12 @@
 .contactme{
     background-image: url("../images/c_image.jpg");
 }
+#design-show{
+    display: none;
+}
+#development-show{
+    display: none;
+}
+#product-show{
+    display: none;
+}
