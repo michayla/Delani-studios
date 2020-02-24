@@ -65,3 +65,24 @@
 #product-show{
     display: none;
 }
+
+/*------Portifolio*-----*/
+
+.row{
+    text-align: center;
+}
+
+.row img{
+    padding: 7px 7px;
+    height: 230px;
+}
+
+.row img:hover{
+    opacity: 0.3;
+}
+
+#hedin{
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
