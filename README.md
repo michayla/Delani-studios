@@ -5,7 +5,7 @@ Michuki Michelle
 ## Technology Used
 HTML-We used html for displaying the content.
 CSS-We used css and bootstrap for styling the front-end of the website and making the landing page.
-JAVASCRIPT-We used javascript for dynamics.
+JAVASCRIPT-We used javascript for dynamics and to make the website responsive.
 ## BDD
 My Delani studio is basically a one page website that offers services to people easily.
 
