@@ -86,3 +86,14 @@
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+#aboutus {
+    font-family: 'Yeon Sung'; 
+}
+
+#services {
+    font-family: 'Yeon Sung';
+    font-weight: bold;
+    font-size: xx-large;
+    color: black;
+}

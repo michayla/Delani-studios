@@ -26,3 +26,4 @@ $(".product").click(function(){
     $("#product-hide").toggle();
     $("#product-show").toggle();
  });
+ 
